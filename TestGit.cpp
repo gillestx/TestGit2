@@ -12,6 +12,7 @@
 
 
 // CTestGitApp
+//Test de modification
 
 BEGIN_MESSAGE_MAP(CTestGitApp, CWinApp)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
